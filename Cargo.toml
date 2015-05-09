@@ -1,0 +1,4 @@
+[package]
+name = "rust-titanic"
+version = "0.0.1"
+authors = ["Anayeli Flores <a.flores1591@gmail.com"]
